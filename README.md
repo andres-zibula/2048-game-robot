@@ -2,7 +2,7 @@
 
 ![](https://github.com/andres-zibula/project-images/blob/master/2048_game_robot/2048_game_robot.gif)
 
-A robot playing the game 2048 in a smartphone, using the built-in camera from the notebook.
+It is a robot that plays the game 2048 in a smartphone, it uses the built-in camera of the notebook to capture the images, then it processes them to get the matrix of numbers of the game board, after that through a Neural Network it decides what action to take. Finally the program sends signals to the Arduino to slide the stylus pen in the correct direction.
 
 ## Requirements
 
